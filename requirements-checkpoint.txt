@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_chroma
+pypdf
+ollama
+jupyter
+langchain-groq
+streamlit
+langchain_text_splitters
